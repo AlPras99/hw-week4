@@ -26,3 +26,8 @@ SSH stands for Secure Socket Shell, it is a, well, I'll get to it in a minute. B
 ## BASH Basic
 ### Standard Streams & Redirections
 Yeah, you've probably used it. If you've written any sort of Unix or even a note application you use these things too. There's things called standard streams, they're standard output which is stdout that you'll see it written as that. Standard input stdin, and there's standard error, stderr. It's great because this is the standard for almost all Unix applications. There's something called the POSIX standards, which, I don't remember what POSIX means, but it's in the notes. Portable Operating System Interface. So it's a group of people that decided, hey, if you're writing any sort of Unix application, there should be some sort of standard way that inputs come out or inputs go in, outputs go out and errors are handled.
+## Nginx
+About Nginx as being a web server, a reverse proxy, kinda a jack of all trades, and it's just really, really, really fast.
+## Security
+Security is honestly one of the most important things you'll do, which kind of run contrary to what we do as engineers. We think, no, my job is to build things and connect things and make sure the pipes are running smoothly and everything like that. But the thing about security is none of, none of your cleverness, none of your code, none of your fast application matters if you have no security. 
+So security is one of the more important things we're doing. That's why there's an entire section on this. Even though it's full stack engineers, you probably won't do as much security as you think. There's dedicated people that dedicate their entire lives just doing security and operations, security, things like that.
